@@ -15,7 +15,7 @@ int main()
 	if (Keluar >= Masuk);
     	Lama = Keluar - Masuk;
 	
-	    Lama = (11-Masuk) + Keluar;
+	    Lama = (12-Masuk) + Keluar;
 	     
 	printf("\n\n Lama bekerja adalah : %d Jam\n", Lama);
 	
